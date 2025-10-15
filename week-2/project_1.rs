@@ -9,7 +9,7 @@ fn main() {
 
 	//calculate compund interest
 
-	let a = p * (1.0 + (r / 100.0)) * n;
+	let a = p * (1.0 + (r / 100.0)).powf(n);
 	let ci = a - p;
 
 
