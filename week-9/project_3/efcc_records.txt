@@ -1,0 +1,7 @@
+S/N   Commissioner    Ministry        Zone           
+S/N   Commissioner    Ministry        Zone           
+1               Ajibogun Alamba Daudu Internal Affairs South West     
+2               Murtala Afeez Bendu Justice         North East     
+3               Okorocha Collins Ogbonna Defence         South East     
+4               Adewale Jimoh Akanbi Power & Steel   South South    
+5               Osazuwa Faith Ekiye Petroleum       South West     
